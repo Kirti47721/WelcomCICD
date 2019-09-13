@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <asp:Label runat="server" text="Welcome to CICD Azure devops trial demo!!"></asp:Label>
+    <asp:Label runat="server" text="Welcome to CICD Azure devops demo2!!"></asp:Label>
     </div>
     </form>
 </body>
